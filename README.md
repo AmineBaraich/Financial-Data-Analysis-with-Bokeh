@@ -4,7 +4,7 @@ This project is a web-based application for visualizing stock data using Bokeh. 
 
 ## Features
 
-- Load stock data for two different stocks
+- Load stock data for two different stocks from yfinance
 - Compare stock data over a specified date range
 - Apply technical indicators such as 30 Day SMA, 100 Day SMA, and Linear Regression Line
 - Interactive plot with zoom, pan, and reset functionalities

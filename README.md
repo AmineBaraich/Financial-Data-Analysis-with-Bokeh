@@ -30,14 +30,25 @@ After you run the command successfully, you will surely get into an interface ju
 <img width="703" alt="image" src="https://github.com/AmineBaraich/Financial-Data-Analysis-with-Bokeh/assets/130483250/837ddeca-3760-4e56-82ec-ab81db0596f7">
 
 
-
 Enter the ticker symbols for the main stock and the comparison stock.
+- Example : comparison between Tesla and Apple.
+  
+<img width="699" alt="image" src="https://github.com/AmineBaraich/Financial-Data-viz-with-Bokeh/assets/130483250/9a0ff3cb-25fc-4be7-93cc-f71531e1bdd4">
 
-Select the start and end dates for the data.
+Then, select the start and end dates for the data.
+
+<img width="699" alt="image" src="https://github.com/AmineBaraich/Financial-Data-viz-with-Bokeh/assets/130483250/b006e6a2-3efa-46be-86ad-a6f41d38e1b5">
+
 
 Choose the technical indicators you want to apply.
 
-Click the "Load Data" button to visualize the stock data.
+<img width="695" alt="image" src="https://github.com/AmineBaraich/Financial-Data-viz-with-Bokeh/assets/130483250/bb07d6a8-365f-4060-93f1-29625cfd8641">
+
+
+Finally, click the "Load Data" button to visualize the stock data.
+
+<img width="602" alt="image" src="https://github.com/AmineBaraich/Financial-Data-viz-with-Bokeh/assets/130483250/0337cedb-1a22-4fbc-b6f4-be724cdcbc47">
+
 
 ## Dependencies
 
